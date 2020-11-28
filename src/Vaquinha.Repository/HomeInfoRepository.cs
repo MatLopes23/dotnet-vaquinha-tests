@@ -1,5 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using Vaquinha.Domain;
 using Vaquinha.Domain.ViewModels;
 using Vaquinha.Repository.Context;
